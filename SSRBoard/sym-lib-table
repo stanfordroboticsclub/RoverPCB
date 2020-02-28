@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name XT60_Conn)(type Legacy)(uri C:/Users/deria/Documents/KiCad/SSRBoard/SSRBoard/XT60_Conn.lib)(options "")(descr ""))
+)
